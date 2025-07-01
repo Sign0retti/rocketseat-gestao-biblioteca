@@ -40,7 +40,7 @@ public class Livro {
     }
 
     public void setAutor(String autor){
-        this.nomeAtor = autor;
+        this.nomeAutor = autor;
     }
 
     public boolean getDisponivel(){
