@@ -17,11 +17,11 @@ Uma aplicação em **Java** para gerenciar autores, livros e empréstimos de for
 src/
 
 ├──Autor.java # Classe que representa um autor (id, nome)
-|
+
 ├── Livro.java # Classe que representa um livro (id, título, autor, disponibilidade)
-|
+
 ├── Biblioteca.java # Classe principal de lógica: cadastro, listagem, empréstimos e devoluções
-|
+
 └── Main.java # Classe responsável pela interação com o usuário via menu no console
 
 
