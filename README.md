@@ -15,9 +15,12 @@ Uma aplicação em **Java** para gerenciar autores, livros e empréstimos de for
 ## 📁 Estrutura do Projeto
 
 src/
-├── Autor.java # Classe que representa um autor (id, nome)
+├──Autor.java # Classe que representa um autor (id, nome)
+
 ├── Livro.java # Classe que representa um livro (id, título, autor, disponibilidade)
+
 ├── Biblioteca.java # Classe principal de lógica: cadastro, listagem, empréstimos e devoluções
+
 └── Main.java # Classe responsável pela interação com o usuário via menu no console
 
 
@@ -78,6 +81,9 @@ Digite seu nome:
 
 O livro 'Harry Potter e a Pedra Filosofal' foi emprestado para João.
 
+
+
 📝 Licença
+
 Este projeto está licenciado sob a MIT License.
 Sinta-se à vontade para usar, modificar e distribuir.
